@@ -27,7 +27,7 @@ export default {
     },
     height: {
       type: Number,
-      default: 240
+      default: 350
     },
     duration: {
       type: Number,
